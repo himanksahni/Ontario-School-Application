@@ -1,0 +1,33 @@
+
+table {
+    border-collapse: separate !important;
+    border-spacing: 0px 3rem !important;
+    border-color: white;
+}
+
+tr{
+    
+    border-color: white !important;
+}
+
+.navbaground {
+    
+    background-color: #0d47a1;
+    color: white;
+    
+}
+
+.textSize {
+    font-size: 1.2rem;
+}
+
+tr:hover{
+    
+    cursor: grab;
+}
+
+.formHide{
+    
+    display: none;
+}
+
